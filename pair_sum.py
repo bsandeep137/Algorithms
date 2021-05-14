@@ -39,16 +39,16 @@ print('Yes' if flag else -1)
 """
 Solving the above problem in Linear Time
 Approach: In this Approach We Are Going to Use HashMap.
-I'm Going To add List Values in the Set
-And Check K(given pair sum)-i is there in the set or not
-If there in the set i'll be printing 'Yes' and Break the loop
+I'm Going To add List Values in the HashMap
+And Check K(given pair sum)-i is there in the HashMap or not
+If there in the HashMap i'll be printing 'Yes' and Break the loop
 else i'll be printing -1
 For better Understanding let's Take Above Example
 n=6 k=16
 1 2 3 4 10 6
 j=values in list
-Now I will add j value in set
-Then i will check whether k-j is there in set or not
+Now I will add j value in HashMap
+Then i will check whether k-j is there in HashMap or not
 so here j=1
 s={}
 we are adding j to s
