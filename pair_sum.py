@@ -94,4 +94,4 @@ for i in z:
     s[i]=0
 else:
     print(-1)
-#Code Contributed By RatnadeepYSVS
+#Code Contributed By  RatnadeepYSVS
