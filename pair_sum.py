@@ -38,7 +38,7 @@ for i in range(n):
 print('Yes' if flag else -1)
 """
 Solving the above problem in Linear Time
-Approach: In this Approach We Are Going to Use HashMap.
+Approach: In this Approach We Are Going to Use HashMap
 I'm Going To add List Values in the Set
 And Check K(given pair sum)-i is there in the set or not
 If there in the set i'll be printing 'Yes' and Break the loop
