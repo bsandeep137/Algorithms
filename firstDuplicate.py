@@ -31,4 +31,4 @@ for i in k:
 else:
     #This only gets Printed If The Above Loop Runs Successfully without Break
     print(-1)
-    
+#Code Contributed By RatnadeepYSVS
