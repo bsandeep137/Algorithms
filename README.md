@@ -5,4 +5,5 @@
  [Frequency Sort](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)  
  [Pair Sum](https://practice.geeksforgeeks.org/problems/key-pair5616/1)  
  [First Duplicate](https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1)  
- [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1)
+ [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1)  
+ [Smallest Missing Number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1)
